@@ -1,2 +1,2 @@
 # AEDI
-Repositório com os códigos que eu resgatei de AEDI
+Repositório com os códigos da minha disciplina de Algoritmos e Estruturas de Dados I
